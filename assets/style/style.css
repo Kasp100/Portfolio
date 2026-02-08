@@ -65,27 +65,10 @@ p {
   margin-bottom: 1.75rem;
 }
 
-h1, h2, h3
+h1, article h2
 {
 	font-weight: 600;
-	margin-bottom: 1.5rem;
-}
-
-h1
-{
 	font-size: 1.4rem;
-}
-
-h2
-{
-	font-size: 1.1rem;
-	font-weight: 500;
-}
-
-h3
-{
-	font-size: 0.9rem;
-	font-weight: 500;
 }
 
 a
