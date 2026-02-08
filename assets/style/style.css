@@ -119,3 +119,8 @@ time:hover
 	color: #ffffffa1;
 	border-color: #ffffff5d;
 }
+
+.decorate-links a
+{
+	text-decoration: underline;
+}
